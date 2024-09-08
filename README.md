@@ -6,7 +6,7 @@
 <p>Ubuntu 20.04</p>
 <p>Debian 11</p>
 
-<code>apt update && apt upgrade -y && apt install sudo git -y && sudo rm -rf automatizaai && sudo git clone https://github.com/traffego/auto_zap.git && cd automatizaai && sudo chmod +x ./automatizaai && ./automatizaai</code><br />
+<code>apt update && apt upgrade -y && apt install sudo git -y && sudo rm -rf automatizaai && sudo git clone https://github.com/traffego/FlowBrasil1.git && cd automatizaai && sudo chmod +x ./automatizaai && ./automatizaai</code><br />
 &nbsp;</p>
 
 <br/>
