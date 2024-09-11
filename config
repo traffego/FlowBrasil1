@@ -1,8 +1,0 @@
-deploy_password=X32023EKzUj=
-mysql_root_password=zuSd9mHPXn3202SxrgZ8CojW+5MQtJgj=
-db_pass=S3202m097dSj=
-jwt_secret=uSd9mHPXnSxrgZ8Coj
-jwt_refresh_secret=uSd9mHPXnSxrgZ8Coj
-deploy_email=contato@rapiburguerbes.com.br
-db_user=root
-db_name=whaticket
